@@ -1,71 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T14:18:04.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.10" etag="Ujcp1ake8adcM8OkoKhu" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T15:40:17.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="MJgTBYYGqq5F7kOT3rTN" version="24.4.10" type="github">
   <diagram name="Page-1" id="43OEywrbcpMZ_uUEOPB6">
-    <mxGraphModel>
+    <mxGraphModel dx="913" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Data Collection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="342" width="125" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="3" value="Data Processing and Extraction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="175" y="342" width="236" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="4" value="Video Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="462" y="96" width="134" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="Using video2dataset tool" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="646" width="225" height="225" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="metadata file" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="921" y="96" width="113" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="7" value="Audio Extraction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="462" y="342" width="135" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="8" value="Using tool yt-dlp" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="675" y="275" width="167" height="167" as="geometry" />
-        </mxCell>
-        <mxCell id="9" value="Audio Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="461" y="425" width="135" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0022000122070311;exitY=0.5072442257043087;entryX=0.0011652607028767214;entryY=0.5072442257043087;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5425572854454686;exitY=0.001183596524325284;entryX=-0.0031716076295767257;entryY=0.5026751431551847;" edge="1" parent="1" source="3" target="4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="436" y="113" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0000933177435576;exitY=0.5026751431551847;entryX=0.0008333672417534722;entryY=0.5003923543294271;" edge="1" parent="1" source="4" target="5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0016180759006077;exitY=0.5003923543294271;entryX=0.003221832545457688;entryY=0.5026751431551847;" edge="1" parent="1" source="5" target="6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0016949217198259;exitY=0.5072442257043087;entryX=-0.0036573621961805557;entryY=0.5072442257043087;" edge="1" parent="1" source="3" target="7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9931944670500579;exitY=0.5072442257043087;entryX=0.0012771697815306886;entryY=0.501431493702049;" edge="1" parent="1" source="7" target="8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6228148723069729;exitY=1.0133048548842922;entryX=0.002962974265769676;entryY=0.5193654840642755;" edge="1" parent="1" source="3" target="9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="436" y="442" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="KTA1W1PQOqAkemR8gAPD-16" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;VIDEO URLs&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#003366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
